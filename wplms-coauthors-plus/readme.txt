@@ -2,7 +2,7 @@
 Contributors: vibethemes
 Tags: CoAuthors Plus, Learning management, LMS, courses
 Requires at least: 3.6
-Tested up to: 5.5.1
+Tested up to: 6.7
 Stable tag: 4.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
